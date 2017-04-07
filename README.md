@@ -1,3 +1,3 @@
 # hello-world
 
-still waters run deep.
+Still waters run deep.
